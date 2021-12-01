@@ -9,3 +9,5 @@ title: ''
 ---
 
 # Yhtiökokous 2021
+
+[Tilinpäätös 2020](/assets/files/Koha-Suomi-tilinpäätös-31.12.2020.pdf)
