@@ -5,5 +5,8 @@ main:
     url: /koha
   - title: 'Yhtiökokous'
     url: /yhtiokokous
+    children:
+      - title: '2021'
+        url: /yhtiokokous/2021
   - title: 'Yhteystiedot'
     url: /yhteystiedot

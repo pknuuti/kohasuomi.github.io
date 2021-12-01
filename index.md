@@ -4,8 +4,10 @@ hidden: true
 header:
   overlay_color: '#5e616c'
   overlay_image: /assets/images/cropped-pexels-photo-113850.jpeg
-title: 'Yleistä yrityksestä'
+title: ''
 ---
+
+# Yleistä yrityksestä
 
 Koha-Suomi Oy on täysin kuntien omistama yhtiö, jonka kautta kunnat ylläpitävät ja kehittävät Koha-kirjastojärjestelmää yhteistyössä. Yritys on perustettu loppukesällä 2016 Kohti Kohaa –hankkeen tuloksena.
 

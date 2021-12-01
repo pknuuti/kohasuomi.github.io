@@ -1,7 +1,9 @@
 ---
 permalink: /yhteystiedot
-title: 'Yhteystiedot'
+title: ''
 ---
+
+# Yhteystiedot
 
 Toimitusjohtaja Ari Mäkiranta
 ari.makiranta@koha-suomi.fi
