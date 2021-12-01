@@ -17,7 +17,7 @@ title: Koha-Suomi Oy
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Koha-Suomi Oy on kuntien omistama osakeyhtiö Koha-kirjastojärjestelmän ylläpitoon ja kehitykseen.
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings

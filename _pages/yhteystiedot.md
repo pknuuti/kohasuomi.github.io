@@ -3,8 +3,6 @@ permalink: /yhteystiedot
 title: 'Yhteystiedot'
 ---
 
-# Yhteystiedot
-
 Toimitusjohtaja Ari Mäkiranta
 ari.makiranta@koha-suomi.fi
 puh. 050 330 3927

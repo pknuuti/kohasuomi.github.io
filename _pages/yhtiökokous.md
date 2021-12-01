@@ -1,6 +1,6 @@
 ---
 permalink: /yhtiokokous
-title: 'Yhtiökokous'
+title: ''
 ---
 
 # Yhtiökokous 2021

@@ -1,9 +1,7 @@
 ---
 permalink: /koha
-title: 'Koha'
+title: 'Mikä on Koha?'
 ---
-
-# Mikä on Koha?
 
 Koha on ensimmäinen avoimen lähdekoodin kirjastojärjestelmä. Sitä on alettu kehittää Uudessa-Seelannissa. Versio 1.0 julkaistiin vuonna 2000. Ohjelmaa levitetään GeneralPublicLicencella, mikä tarkoittaa sitä, että kaikki tehdyt järjestelmän uudet osat on jaettava yhteisön kanssa. Näin yhden tekemä työ hyödyttää kaikkia. Koha on käytössä ympäri maailmaa. Euroopassa se on käytössä yleisissä ja tieteellisissä kirjastoissa mm. Ranskassa, Espanjassa, Portugalissa, Italiassa, Saksassa ja Ruotsissa. Suomessa Koha on Pohjois-Karjalan Vaara-kirjastojen, Etelä-Savon Lumme-kirjastojen, Pohjois-Pohjanmaan OUTI-kirjastojen, Kymenlaakson Kyyti-kirjastojen kirjastojärjestelmä, Siilinjärven kirjastossa, Lapin kirjastoissa ja Itä-Uudenmaan Helle-kirjastoissa (tilanne kesäkuussa 2019). Koha on käytössä myös joissakin pienissä erikoiskirjastoissa.
 
