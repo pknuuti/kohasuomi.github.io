@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: 'Etusivu'
+    url: /
+  - title: 'Koha'
+    url: /koha
+  - title: 'Yhtiökokous'
+    url: /yhtiokokous
+  - title: 'Yhteystiedot'
+    url: /yhteystiedot

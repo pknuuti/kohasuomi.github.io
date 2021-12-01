@@ -1,0 +1,22 @@
+---
+permalink: /
+title: 'Etusivu'
+---
+
+# Yleistä yrityksestä
+
+Koha-Suomi Oy on täysin kuntien omistama yhtiö, jonka kautta kunnat ylläpitävät ja kehittävät Koha-kirjastojärjestelmää yhteistyössä. Yritys on perustettu loppukesällä 2016 Kohti Kohaa –hankkeen tuloksena.
+
+Yritys toimii non-profit-periaatteella; sen tavoitteena ei ole tuottaa taloudellista voittoa. Yritys toimii tiiviissä yhteistyössä omistajakuntien kirjastojen kanssa sekä on aktiivinen toimija kansainvälisessä Koha-yhteisössä.
+
+Yrityksessä työskentelee toimitusjohtaja, kolme päätoimista ja yksi osa-aikainen järjestelmänkehittäjää, jotka kehittävät Kohaa hallituksen linjausten mukaisesti ja pitävät ohjelman toimivana ja kirjastojen tarpeita palvelevana. Päätösvaltaa yhtiössä käyttää hallitus. Lisäksi yhtiössä toimii hallituksen nimeämä asiantuntijaryhmä, johon valitaan edustus Kohaa käyttävistä kirjastoista. Asiantuntijaryhmä laatii esitykset ohjelmiston kehittämistarpeista ja niihin vaadittavista toimenpiteistä. Lisäksi Koha-kirjastoilla on muita järjestelmän kehitystyöhön liittyviä yhteistyöryhmiä, joissa työstetään yhteisiä toimintatapoja ja tehdään esityksiä siitä, kuinka kirjastojärjestelmä tukisi parhaiten työprosesseja.
+
+Yrityksellä ei ole varsinaisia toimitiloja, vaan omistajakunnat tarjoavat kirjastoistaan työtilat järjestelmänkehittäjille.
+
+Koha-Suomi Oy:n kotipaikka on Mikkeli.
+
+# Toiminta-ajatus
+
+Koha-Suomi Oy tarjoaa omistajakunnilleen Koha-kirjastojärjestelmän ylläpito- ja kehittämispalvelut niin, että kirjastojärjestelmä pysyy käytettävänä ja kirjastojen muuttuvia tarpeita vastaavana. Koha-kirjastojärjestelmä on avointa lähdekoodia, ja kaikki siihen tehtävä ohjelmakoodi on jaettava Koha-yhteisölle. Koha-Suomi Oy haluaa edistää toimintakulttuurillaan avoimuutta ja yhteisöllisyyttä. Sen tärkein tavoite on turvata ajanmukainen ja kehittyvä kirjastojärjestelmä kohtuullisilla kustannuksilla kirjastojen käyttöön. Lisäksi Koha-Suomi Oy pyrkii edistämään kirjastojen välistä yhteistyötä ja osaamisen kehittämistä.
+
+Avoin lähdekoodi on yhteisön ja joukkoistamisen tulos. Koha-Suomi Oy edistää toiminnallaan avointen tuotteiden käyttöönottoa julkishallinnossa.
