@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Yleistä yrityksestä
 
 Koha-Suomi Oy on täysin kuntien omistama yhtiö, jonka kautta kunnat ylläpitävät ja kehittävät Koha-kirjastojärjestelmää yhteistyössä. Yritys on perustettu loppukesällä 2016 Kohti Kohaa –hankkeen tuloksena.
