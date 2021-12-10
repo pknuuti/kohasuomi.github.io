@@ -23,7 +23,7 @@ Koha-yhteisön viralliset verkkosivut http://koha-community.org/
 
 # Miten voin ottaa Kohan käyttöön?
 
-Koha-kirjastojärjestelmän voi ottaa käyttöönsä mikä tahansa kirjasto milloin tahansa. Koha-Suomen ohjelmakoodi löytyy Github:ista, osoitteesta https://github.com/KohaSuomi/kohasuomi.
+Koha-kirjastojärjestelmän voi ottaa käyttöönsä mikä tahansa kirjasto milloin tahansa. Koha-Suomen ohjelmakoodi löytyy Github:ista, osoitteesta https://github.com/KohaSuomi/Koha.
 
 Koha-Suomi Oy tarjoaa asiakkailleen mahdollisuuden ottaa käyttöön avoimen lähdekoodin kirjastojärjestelmän niin, ettei se vaadi yksittäiseltä kirjastolta ohjelmointiosaamista. Koha-Suomi mahdollistaa kirjastoille aktiivisen roolin kirjastojärjestelmän kehittämisessä. Kirjastojärjestelmän yhteisöllinen omistaminen tuo mukanaan uudentyyppiset mahdollisuudet vaikuttaa kirjastojärjestelmän kehittämiseen sekä hallita kirjastojärjestelmästä aiheutuvia kustannuksia nykyistä paremmin.
 
