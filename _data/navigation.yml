@@ -10,3 +10,30 @@ main:
         url: /yhtiokokous/2021
   - title: 'Yhteystiedot'
     url: /yhteystiedot
+  - title: 'Dokumentaatio'
+    url: /dokumentaatio/etusivu/
+
+# documentation links
+docs:
+  - title: Kohan ohje suomeksi
+    children:
+      - title: 'Asiakkaat'
+        url: /dokumentaatio/asiakkaat/
+      - title: 'Lainaus'
+        url: /dokumentaatio/lainaus/
+      - title: 'Luettelointi'
+        url: /dokumentaatio/luettelointi/
+      - title: 'Kausijulkaisut'
+        url: /dokumentaatio/kausijulkaisut/
+      - title: 'Hankinta'
+        url: /dokumentaatio/hankinta/
+      - title: 'Listat ja Kori'
+        url: /dokumentaatio/listat-ja-kori/
+      - title: 'Raportit'
+        url: /dokumentaatio/raportit/
+      - title: 'Tiedonhaku'
+        url: /dokumentaatio/Tiedonhaku/
+      - title: 'Kuittitulostuksen asetukset'
+        url: /dokumentaatio/Kuittitulostuksen-asetukset/
+      - title: 'Työkalut'
+        url: /dokumentaatio/tyokalut/

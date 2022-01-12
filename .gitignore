@@ -2,3 +2,9 @@ _site
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+docker-compose.yml
+tomd
+*.awk
+assets/files/docs/old
+*.textile
+_old_docs
