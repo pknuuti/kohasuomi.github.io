@@ -15,9 +15,7 @@ Yritys toimii non-profit-periaatteella; sen tavoitteena ei ole tuottaa taloudell
 
 Yrityksessä työskentelee toimitusjohtaja, viisi päätoimista kehittäjää ja yksi osa-aikainen pääkäyttäjä, jotka kehittävät Kohaa hallituksen linjausten mukaisesti ja pitävät ohjelman toimivana ja kirjastojen tarpeita palvelevana. Päätösvaltaa yhtiössä käyttää hallitus. Lisäksi yhtiössä toimii hallituksen nimeämä asiantuntijaryhmä, johon valitaan edustus Kohaa käyttävistä kirjastoista. Asiantuntijaryhmä laatii esitykset ohjelmiston kehittämistarpeista ja niihin vaadittavista toimenpiteistä. Lisäksi Koha-kirjastoilla on muita järjestelmän kehitystyöhön liittyviä yhteistyöryhmiä, joissa työstetään yhteisiä toimintatapoja ja tehdään esityksiä siitä, kuinka kirjastojärjestelmä tukisi parhaiten työprosesseja.
 
-Yrityksellä ei ole varsinaisia toimitiloja, vaan omistajakunnat tarjoavat kirjastoistaan työtilat järjestelmänkehittäjille.
-
-Koha-Suomi Oy:n kotipaikka on Mikkeli.
+Koha-Suomi Oy:n kotipaikka on Mikkeli, mutta yrityksellä ei ole varsinaisia toimitiloja. Omistajakunnat tarjoavat kirjastoistaan työtilat yrityksen henkilökunnalle.
 
 # Toiminta-ajatus
 
