@@ -8,3 +8,6 @@ tomd
 assets/files/docs/old
 *.textile
 _old_docs
+_old_posts
+_posts
+convert-from-redmine.sh
