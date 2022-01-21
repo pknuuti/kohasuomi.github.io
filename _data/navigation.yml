@@ -11,7 +11,7 @@ main:
   - title: 'Yhteystiedot'
     url: /yhteystiedot
   - title: 'Dokumentaatio'
-    url: /dokumentaatio/etusivu/
+    url: /dokumentaatio/asiakkaat/
 
 # documentation links
 docs:
