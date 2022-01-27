@@ -15,9 +15,9 @@ näy, käyttäjätunnuksellasi ei ole luettelointioikeuksia.
 
 ## 3.1. Bibliografiset tietueet
 
-Kohassa bibliografinen tietue (nimeketietue) sisältää luettelointitiedot
+Kohassa bibliografinen tietue (nimeketietue) sisältää kuvailutiedot
 aineistosta. Näitä tietoja ovat mm. nimeke, tekijä, ISBN ym. Tieto on
-tallennettu MARC 21 formaatin mukaisesti. Kun nimeketiedot on
+tallennettu MARC 21 -formaatin mukaisesti. Kun nimeketiedot on
 tallennettu, voidaan tietueelle lisätä niteitä.
 
 ### 3.1.1. Tietueen lisääminen
